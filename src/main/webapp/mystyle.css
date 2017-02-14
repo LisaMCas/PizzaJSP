@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2017, 4:38:31 PM
+    Author     : Lisa Caswell
+*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-larrge;
+    font-style: normal;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+p {
+    margin-left: 20px;
+   
+}
+input {
+    margin:20px 5px 0px 20px;
+}
+a:link {
+    color: #00f;
+    text-decoration: none;
+}
